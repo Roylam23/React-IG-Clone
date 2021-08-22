@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-IG-Clone/static/css/main.81f4836c.chunk.css",
-    "main.js": "/React-IG-Clone/static/js/main.adeb31cd.chunk.js",
-    "main.js.map": "/React-IG-Clone/static/js/main.adeb31cd.chunk.js.map",
+    "main.css": "/React-IG-Clone/static/css/main.67538a5d.chunk.css",
+    "main.js": "/React-IG-Clone/static/js/main.97d9efec.chunk.js",
+    "main.js.map": "/React-IG-Clone/static/js/main.97d9efec.chunk.js.map",
     "runtime-main.js": "/React-IG-Clone/static/js/runtime-main.8e224f45.js",
     "runtime-main.js.map": "/React-IG-Clone/static/js/runtime-main.8e224f45.js.map",
     "static/js/2.597f7e8e.chunk.js": "/React-IG-Clone/static/js/2.597f7e8e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.77e20680.chunk.js": "/React-IG-Clone/static/js/3.77e20680.chunk.js",
     "static/js/3.77e20680.chunk.js.map": "/React-IG-Clone/static/js/3.77e20680.chunk.js.map",
     "index.html": "/React-IG-Clone/index.html",
-    "static/css/main.81f4836c.chunk.css.map": "/React-IG-Clone/static/css/main.81f4836c.chunk.css.map",
+    "static/css/main.67538a5d.chunk.css.map": "/React-IG-Clone/static/css/main.67538a5d.chunk.css.map",
     "static/js/2.597f7e8e.chunk.js.LICENSE.txt": "/React-IG-Clone/static/js/2.597f7e8e.chunk.js.LICENSE.txt",
     "static/media/post.12ef867b.jpg": "/React-IG-Clone/static/media/post.12ef867b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e224f45.js",
     "static/js/2.597f7e8e.chunk.js",
-    "static/css/main.81f4836c.chunk.css",
-    "static/js/main.adeb31cd.chunk.js"
+    "static/css/main.67538a5d.chunk.css",
+    "static/js/main.97d9efec.chunk.js"
   ]
 }
