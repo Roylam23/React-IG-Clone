@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-IG-Clone/static/css/main.53edc0ca.chunk.css",
-    "main.js": "/React-IG-Clone/static/js/main.1406cdff.chunk.js",
-    "main.js.map": "/React-IG-Clone/static/js/main.1406cdff.chunk.js.map",
-    "runtime-main.js": "/React-IG-Clone/static/js/runtime-main.2610cbdd.js",
-    "runtime-main.js.map": "/React-IG-Clone/static/js/runtime-main.2610cbdd.js.map",
-    "static/js/2.4c63e66b.chunk.js": "/React-IG-Clone/static/js/2.4c63e66b.chunk.js",
-    "static/js/2.4c63e66b.chunk.js.map": "/React-IG-Clone/static/js/2.4c63e66b.chunk.js.map",
-    "static/js/3.d1b6aecb.chunk.js": "/React-IG-Clone/static/js/3.d1b6aecb.chunk.js",
-    "static/js/3.d1b6aecb.chunk.js.map": "/React-IG-Clone/static/js/3.d1b6aecb.chunk.js.map",
+    "main.css": "/React-IG-Clone/static/css/main.a254df3a.chunk.css",
+    "main.js": "/React-IG-Clone/static/js/main.4da859d2.chunk.js",
+    "main.js.map": "/React-IG-Clone/static/js/main.4da859d2.chunk.js.map",
+    "runtime-main.js": "/React-IG-Clone/static/js/runtime-main.f02551e9.js",
+    "runtime-main.js.map": "/React-IG-Clone/static/js/runtime-main.f02551e9.js.map",
+    "static/js/2.9e0187fd.chunk.js": "/React-IG-Clone/static/js/2.9e0187fd.chunk.js",
+    "static/js/2.9e0187fd.chunk.js.map": "/React-IG-Clone/static/js/2.9e0187fd.chunk.js.map",
+    "static/js/3.f72f33e1.chunk.js": "/React-IG-Clone/static/js/3.f72f33e1.chunk.js",
+    "static/js/3.f72f33e1.chunk.js.map": "/React-IG-Clone/static/js/3.f72f33e1.chunk.js.map",
     "index.html": "/React-IG-Clone/index.html",
-    "static/css/main.53edc0ca.chunk.css.map": "/React-IG-Clone/static/css/main.53edc0ca.chunk.css.map",
-    "static/js/2.4c63e66b.chunk.js.LICENSE.txt": "/React-IG-Clone/static/js/2.4c63e66b.chunk.js.LICENSE.txt",
+    "static/css/main.a254df3a.chunk.css.map": "/React-IG-Clone/static/css/main.a254df3a.chunk.css.map",
+    "static/js/2.9e0187fd.chunk.js.LICENSE.txt": "/React-IG-Clone/static/js/2.9e0187fd.chunk.js.LICENSE.txt",
     "static/media/post.12ef867b.jpg": "/React-IG-Clone/static/media/post.12ef867b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2610cbdd.js",
-    "static/js/2.4c63e66b.chunk.js",
-    "static/css/main.53edc0ca.chunk.css",
-    "static/js/main.1406cdff.chunk.js"
+    "static/js/runtime-main.f02551e9.js",
+    "static/js/2.9e0187fd.chunk.js",
+    "static/css/main.a254df3a.chunk.css",
+    "static/js/main.4da859d2.chunk.js"
   ]
 }
