@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/React-IG-Clone/static/css/main.a254df3a.chunk.css",
-    "main.js": "/React-IG-Clone/static/js/main.8af5d150.chunk.js",
-    "main.js.map": "/React-IG-Clone/static/js/main.8af5d150.chunk.js.map",
-    "runtime-main.js": "/React-IG-Clone/static/js/runtime-main.f02551e9.js",
-    "runtime-main.js.map": "/React-IG-Clone/static/js/runtime-main.f02551e9.js.map",
-    "static/js/2.e986faad.chunk.js": "/React-IG-Clone/static/js/2.e986faad.chunk.js",
-    "static/js/2.e986faad.chunk.js.map": "/React-IG-Clone/static/js/2.e986faad.chunk.js.map",
-    "static/js/3.f72f33e1.chunk.js": "/React-IG-Clone/static/js/3.f72f33e1.chunk.js",
-    "static/js/3.f72f33e1.chunk.js.map": "/React-IG-Clone/static/js/3.f72f33e1.chunk.js.map",
+    "main.css": "/React-IG-Clone/static/css/main.866d5c53.chunk.css",
+    "main.js": "/React-IG-Clone/static/js/main.bf9be608.chunk.js",
+    "main.js.map": "/React-IG-Clone/static/js/main.bf9be608.chunk.js.map",
+    "runtime-main.js": "/React-IG-Clone/static/js/runtime-main.f7663f8a.js",
+    "runtime-main.js.map": "/React-IG-Clone/static/js/runtime-main.f7663f8a.js.map",
+    "static/js/2.aa5a2a43.chunk.js": "/React-IG-Clone/static/js/2.aa5a2a43.chunk.js",
+    "static/js/2.aa5a2a43.chunk.js.map": "/React-IG-Clone/static/js/2.aa5a2a43.chunk.js.map",
+    "static/js/3.f136f624.chunk.js": "/React-IG-Clone/static/js/3.f136f624.chunk.js",
+    "static/js/3.f136f624.chunk.js.map": "/React-IG-Clone/static/js/3.f136f624.chunk.js.map",
     "index.html": "/React-IG-Clone/index.html",
-    "static/css/main.a254df3a.chunk.css.map": "/React-IG-Clone/static/css/main.a254df3a.chunk.css.map",
-    "static/js/2.e986faad.chunk.js.LICENSE.txt": "/React-IG-Clone/static/js/2.e986faad.chunk.js.LICENSE.txt",
-    "static/media/post.12ef867b.jpg": "/React-IG-Clone/static/media/post.12ef867b.jpg"
+    "static/css/main.866d5c53.chunk.css.map": "/React-IG-Clone/static/css/main.866d5c53.chunk.css.map",
+    "static/js/2.aa5a2a43.chunk.js.LICENSE.txt": "/React-IG-Clone/static/js/2.aa5a2a43.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/React-IG-Clone/static/media/img1.4998542b.jpg",
+    "static/media/img2.jpg": "/React-IG-Clone/static/media/img2.9ef0118c.jpg",
+    "static/media/img3.jpg": "/React-IG-Clone/static/media/img3.c8269710.jpg",
+    "static/media/img4.jpg": "/React-IG-Clone/static/media/img4.70f053b8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f02551e9.js",
-    "static/js/2.e986faad.chunk.js",
-    "static/css/main.a254df3a.chunk.css",
-    "static/js/main.8af5d150.chunk.js"
+    "static/js/runtime-main.f7663f8a.js",
+    "static/js/2.aa5a2a43.chunk.js",
+    "static/css/main.866d5c53.chunk.css",
+    "static/js/main.bf9be608.chunk.js"
   ]
 }
