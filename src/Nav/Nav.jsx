@@ -2,7 +2,7 @@ import "./Nav.css";
 import icon from "../img/54209307_376978876477713_2662263082180411392_n.jpg";
 function Nav() {
   return (
-    <div className="nav">
+    <div className="nav" id="nav">
       <div className="nav-inner">
         <div className="img-con">
           <img

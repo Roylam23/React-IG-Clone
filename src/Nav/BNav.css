@@ -1,0 +1,30 @@
+.bNav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 55px;
+    background-color: #000;
+    z-index: 250;
+    justify-content: space-around;
+}
+
+#ph,.ph {
+    display: block;
+    width:50px;
+}
+
+.ph>path{
+    color:#fff;
+}
+
+.ph>svg{
+    margin:0;
+}
+
+@media screen and (min-width:614px){
+    .bNav{
+        display:none;
+    }
+}

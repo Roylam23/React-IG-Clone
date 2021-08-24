@@ -1,6 +1,6 @@
 import icon from "../../../img/54209307_376978876477713_2662263082180411392_n.jpg";
-import post from "../../../img/post.jpg";
-function Post() {
+
+function Post(props) {
   return (
     <div className="post-con">
       <div className="post-top">
@@ -14,7 +14,7 @@ function Post() {
           data-width="24px"
         ></span>
       </div>
-      <img src={post} alt="" />
+      <img src={props.img} alt="" />
       <div className="post-option">
         <div className="option-left">
           <svg
@@ -70,7 +70,7 @@ function Post() {
       <div className="post-like">100 個讚好</div>
       <div className="post-holder">
         <div className="post-holder-name">rl_930</div>
-        <div className="post-holder-content">asdadasdasdasda ...</div>
+        <div className="post-holder-content">{props.title} ...</div>
         <div className="post-holder-more">更多</div>
       </div>
       <div className="post-time">1 分鐘前</div>

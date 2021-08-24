@@ -3,31 +3,31 @@
   "name": "Instagram",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon",
-      "purpose":"maskable"
-    },
-    {
-      "src": "logo128.png",
-      "sizes": "128x128",
+      "src": "maskable_icon_x96.png",
       "type": "image/png",
-      "purpose":"maskable"
+      "sizes": "96x96",
+      "purpose":"any"
     },
     {
-      "src": "logo192.png",
+      "src": "maskable_icon_x128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose":"any"
+    },
+    {
+      "src": "maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose":"any"
     },
     {
-      "src": "logo512.png",
+      "src": "maskable_icon_x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose":"maskable"
     }
   ],
-  "start_url": "https://roylam23.github.io/ig/#/",
+  "start_url": "https://roylam23.github.io/React-IG-Clone/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000"
